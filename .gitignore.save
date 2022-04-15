@@ -132,6 +132,5 @@ dmypy.json
 .~lock.Car_Purchasing_Data.csv#
 *.~lock
 *.lock
-*~lock
+.~lock.Car_Purchasing_Data.csv#
 
-*.
